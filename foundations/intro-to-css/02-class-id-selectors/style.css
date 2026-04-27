@@ -1,1 +1,9 @@
 /* Add CSS Styling */
+.subsection {background-color: rgb(208, 110, 110);
+            font-family: Verdana, "DejaVu Sans", sans-serif;}
+.big {font-size: 25px;}
+
+#oneID {color: rgb(20, 32, 199);
+        font-size: 20px;}
+#otherID {background-color: rgb(114, 212, 179);
+        font-weight: 900;}
