@@ -1,1 +1,9 @@
 /* Add CSS Styling */
+.me, .notMe {font-family: Helvetica, 'Times New Roman', sans-serif;
+font-size: 28px;}
+
+.me {color: aliceblue;
+    background-color: rgb(40, 137, 179);
+    font-weight: 600;}
+
+.notMe {background-color: rgb(85, 75, 66);}
